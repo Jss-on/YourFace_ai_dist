@@ -89,8 +89,6 @@ class Utility:
         self.data_file_exist =  os.path.isfile('data.npz')
     
    
-# a = Utility("Jession",r"C:\Users\JDiwanga\OneDrive - Analog Devices, Inc\Documents\Training and Learning\Python Scripts\ml\mvc_practice\Splash_Screen_Python_PySide2\Menu.png")
-# print(a)
 
 class videoHandler:
     def __init__(self,source):
